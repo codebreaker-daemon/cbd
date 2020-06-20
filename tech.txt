@@ -7,6 +7,10 @@ Python
 Data structures and algorithms
 Data Science
 Machine Learning
+Deep Learning
+Big Data
 Artificial Intelligence
 
+
 Thanks
+Done My Changes
