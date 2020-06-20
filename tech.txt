@@ -4,6 +4,7 @@ Welcome to Tech channel
 
 You will learn about :
 Python
+Data structures and algorithms
 Data Science
 Machine Learning
 Artificial Intelligence
